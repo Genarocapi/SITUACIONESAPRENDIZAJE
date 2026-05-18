@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260518234831QD4MZ7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260518234831ZJG0JT</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SITUACIÓN DE APRENDIZAJE &quot;¿QUE FUNCIÓN SOY?&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Estudio de Funciones</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>GENARO MANUEL MARTOS CARRASCO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje que tiene como objetivo estudiar las características de las funciones y los tipos de funciones recreando el clásico juego de &quot;¿Quién es quién?&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779120107762</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpbe5o5w-8mwe7z9fk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿QUÉ FUNCIÓN SOY?&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ FUNCIÓN SOY?&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿QUÉ FUNCIÓN SOY?&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o5w-8mwe7z9fk</odePageId>
+      <odeBlockId>block-1778711060648-0oa2gi1j6</odeBlockId>
+      <blockName>ESTUDIO DE FUNCIONES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o5w-8mwe7z9fk</odePageId>
+          <odeBlockId>block-1778711060648-0oa2gi1j6</odeBlockId>
+          <odeIdeviceId>idevice-1778711060647-nbog6fncd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/portada.jpg" title="PORTADA" width="839" height="642" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778711060647-nbog6fncd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/portada.jpg\" title=\"PORTADA\" width=\"839\" height=\"642\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o5z-nai6xik94</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>ÍNDICE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ÍNDICE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ÍNDICE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ÍNDICE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o5z-nai6xik94</odePageId>
+      <odeBlockId>block-1778753979331-2ukax0237</odeBlockId>
+      <blockName>ÍNDICE</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o5z-nai6xik94</odePageId>
+          <odeBlockId>block-1778753979331-2ukax0237</odeBlockId>
+          <odeIdeviceId>idevice-1778753979329-lr83bq3lj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. DESCRIPCIÓN DEL PROYECTO.</p>
+<p>2. PROTECCIÓN DE DATOS PERSONALES Y DERECHOS DIGITALES.</p>
+<p>3. CURACIÓN DE CONTENIDOS.</p>
+<p>4. EL PRODUCTO FINAL.</p>
+<p>5. LÍNEA TEMPORAL.</p>
+<p>6. ACTIVIDADES Y TAREAS.</p>
+<p>7. EVALUACIÓN.</p>
+<p>          7.1. CRITERIOS DE EVALUACIÓN.</p>
+<p>           7.2. INSTRUMENTOS DE EVALUACIÓN.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778753979329-lr83bq3lj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. DESCRIPCIÓN DEL PROYECTO.</p>\n<p>2. PROTECCIÓN DE DATOS PERSONALES Y DERECHOS DIGITALES.</p>\n<p>3. CURACIÓN DE CONTENIDOS.</p>\n<p>4. EL PRODUCTO FINAL.</p>\n<p>5. LÍNEA TEMPORAL.</p>\n<p>6. ACTIVIDADES Y TAREAS.</p>\n<p>7. EVALUACIÓN.</p>\n<p>          7.1. CRITERIOS DE EVALUACIÓN.</p>\n<p>           7.2. INSTRUMENTOS DE EVALUACIÓN.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o60-94qvo52hw</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>1. DESCRIPCIÓN DEL PROYECTO.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. DESCRIPCIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. DESCRIPCIÓN DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o60-94qvo52hw</odePageId>
+      <odeBlockId>block-1778781809704-4o494zc5o</odeBlockId>
+      <blockName>SITUACIÓN DE APRENDIZAJE: &quot;¿QUÉ FUNCIÓN SOY?&quot;</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o60-94qvo52hw</odePageId>
+          <odeBlockId>block-1778781809704-4o494zc5o</odeBlockId>
+          <odeIdeviceId>idevice-1778781809701-5tugtj59o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: square;">
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="text-decoration: underline;">Centro de interés o temática</span></strong>: Esta situación de aprendizaje tiene como objetivo trabajar los contenidos y saberes asociados a la unidad de Estudio de Funciones, principalmente las características de las funciones, dentro del bloque de Análisis.</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong> Nivel al que va dirigido</strong>:  4º de ESO. </span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Temporalización aproximada</strong>: 16 sesiones distribuidas a lo largo de 4 semanas. </span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Materia o materias implicadas</strong>: Matemáticas B (enfocadas a Bachillerato).</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Idioma</strong>: Español.</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="text-decoration: underline;">Descripción general</span></strong>: El objetivo principal es que el alumnado asimile y comprenda las características de las funciones de forma significativa, alejándose del aprendizaje puramente memorístico. Para ello se emplea una metodología activa, participativa y motivadora, convirtiendo al alumno en centro de su aprendizaje. Concretamente los contenidos citados se abordan mediante la metodología de la gamificación, a través de una adaptación del clásico juego "¿Quién es Quién?" apoyada en el uso de herramientas TIC como GeoGebra y usando Flipped Classroom para la impartición de los saberes necesarios. Para ello, cada grupo trabajará de forma cooperativa elaborando un "mosaico de funciones" mediante el programa GeoGebra para posteriormente recrear el juego.</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="text-decoration: underline;">Justificación</span></strong>: Esta Situación de Aprendizaje (SA) pretende facilitar la comprensión de los conceptos relacionados con las funciones haciéndolo de forma amena y atractiva. Los alumnos asimilarán y comprenderán los diferentes conceptos y características de las funciones con ayuda de las TIC, concretamente con el programa Geogebra, con la metodología de la gamificación y la ayuda de Flipped Classroom, haciendo el aprendizaje más significativo.  Asimismo, potenciará e integrará varias competencias principalmente la lógico-matemática y la digital.  Con la elección y el diseño de esta Situación de Aprendizaje se pretende entre otros objetivos:</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"> </span>
+<ul>
+<li style="list-style-type: none;">
+<ul style="list-style-type: circle;">
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Invertir la clase (Flipped Classroom), dejando las clases para trabajar en cooperativo, abordando previamente los contenidos y saberes teóricos con ayuda de material y vídeos en Classroom.</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Mejorar el trabajo cooperativo: Cuando el alumnado no asimila previamente los saberes, el trabajo cooperativo en el aula se ve penalizado, generando ritmos desiguales y frustración. Al articular la actividad en torno a un reto lúdico y competitivo (el juego "¿Qué función soy?"), se fomenta una verdadera interdependencia positiva; los estudiantes necesitan colaborar, debatir sobre las características de las funciones y construir juntos las herramientas del juego para poder participar y ganar. </span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Mejorar la atención y concentración del alumnado: Es vital establecer mecanismos para transformar el papel pasivo del alumno en uno mucho más activo, donde el alumno sea el protagonista de su propio aprendizaje. Este producto final da respuesta a esa necesidad integrando la gamificación y el uso de GeoGebra, obligando al alumnado a interactuar activamente con los conceptos para poder construir su mosaico y redactar las pistas del juego. </span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Uso significativo de las TIC y Competencia Digital: El uso de herramientas digitales (GeoGebra, presentaciones, etc.) favorece el razonamiento y el establecimiento de conexiones matemáticas, al mismo tiempo que se potencia la competencia digital del alumnado mediante la creación, integración y elaboración de contenidos digitales.</span><span style="font-family: arial, helvetica, sans-serif;"></span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778781809701-5tugtj59o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: square;\">\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"text-decoration: underline;\">Centro de interés o temática</span></strong>: Esta situación de aprendizaje tiene como objetivo trabajar los contenidos y saberes asociados a la unidad de Estudio de Funciones, principalmente las características de las funciones, dentro del bloque de Análisis.</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong> Nivel al que va dirigido</strong>:  4º de ESO. </span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Temporalización aproximada</strong>: 16 sesiones distribuidas a lo largo de 4 semanas. </span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Materia o materias implicadas</strong>: Matemáticas B (enfocadas a Bachillerato).</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Idioma</strong>: Español.</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"text-decoration: underline;\">Descripción general</span></strong>: El objetivo principal es que el alumnado asimile y comprenda las características de las funciones de forma significativa, alejándose del aprendizaje puramente memorístico. Para ello se emplea una metodología activa, participativa y motivadora, convirtiendo al alumno en centro de su aprendizaje. Concretamente los contenidos citados se abordan mediante la metodología de la gamificación, a través de una adaptación del clásico juego \"¿Quién es Quién?\" apoyada en el uso de herramientas TIC como GeoGebra y usando Flipped Classroom para la impartición de los saberes necesarios. Para ello, cada grupo trabajará de forma cooperativa elaborando un \"mosaico de funciones\" mediante el programa GeoGebra para posteriormente recrear el juego.</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><strong><span style=\"text-decoration: underline;\">Justificación</span></strong>: Esta Situación de Aprendizaje (SA) pretende facilitar la comprensión de los conceptos relacionados con las funciones haciéndolo de forma amena y atractiva. Los alumnos asimilarán y comprenderán los diferentes conceptos y características de las funciones con ayuda de las TIC, concretamente con el programa Geogebra, con la metodología de la gamificación y la ayuda de Flipped Classroom, haciendo el aprendizaje más significativo.  Asimismo, potenciará e integrará varias competencias principalmente la lógico-matemática y la digital.  Con la elección y el diseño de esta Situación de Aprendizaje se pretende entre otros objetivos:</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"> </span>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: circle;\">\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Invertir la clase (Flipped Classroom), dejando las clases para trabajar en cooperativo, abordando previamente los contenidos y saberes teóricos con ayuda de material y vídeos en Classroom.</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Mejorar el trabajo cooperativo: Cuando el alumnado no asimila previamente los saberes, el trabajo cooperativo en el aula se ve penalizado, generando ritmos desiguales y frustración. Al articular la actividad en torno a un reto lúdico y competitivo (el juego \"¿Qué función soy?\"), se fomenta una verdadera interdependencia positiva; los estudiantes necesitan colaborar, debatir sobre las características de las funciones y construir juntos las herramientas del juego para poder participar y ganar. </span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Mejorar la atención y concentración del alumnado: Es vital establecer mecanismos para transformar el papel pasivo del alumno en uno mucho más activo, donde el alumno sea el protagonista de su propio aprendizaje. Este producto final da respuesta a esa necesidad integrando la gamificación y el uso de GeoGebra, obligando al alumnado a interactuar activamente con los conceptos para poder construir su mosaico y redactar las pistas del juego. </span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Uso significativo de las TIC y Competencia Digital: El uso de herramientas digitales (GeoGebra, presentaciones, etc.) favorece el razonamiento y el establecimiento de conexiones matemáticas, al mismo tiempo que se potencia la competencia digital del alumnado mediante la creación, integración y elaboración de contenidos digitales.</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o60-bq1ggqgfi</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>2. PROTECCION DE DATOS PERSONALES Y DERECHOS DIGITALES.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROTECCION DE DATOS PERSONALES Y DERECHOS DIGITALES.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>JUSTIFICACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. PROTECCION DE DATOS PERSONALES Y DERECHOS DIGITALES.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o60-bq1ggqgfi</odePageId>
+      <odeBlockId>block-1778793525071-esjliwnai</odeBlockId>
+      <blockName>LICENCIAS Y SEGURIDAD</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o60-bq1ggqgfi</odePageId>
+          <odeBlockId>block-1778793525071-esjliwnai</odeBlockId>
+          <odeIdeviceId>idevice-1778793525067-3fpyjs11x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHI1FSteIM/WJJfDYL4QG8YDhkNu78TpQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHI1FSteIM/WJJfDYL4QG8YDhkNu78TpQ/view?utm_content=DAHI1FSteIM&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">INFOGRAFÍA LICENCIAS Y SEGURIDAD</a> de Genaro Manuel Martos Carrasco</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778793525067-3fpyjs11x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHI1FSteIM/WJJfDYL4QG8YDhkNu78TpQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHI1FSteIM/WJJfDYL4QG8YDhkNu78TpQ/view?utm_content=DAHI1FSteIM&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">INFOGRAFÍA LICENCIAS Y SEGURIDAD</a> de Genaro Manuel Martos Carrasco</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o60-fjuo9ulsi</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>3. CURACIÓN DE CONTENIDOS.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. CURACIÓN DE CONTENIDOS.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. CURACIÓN DE CONTENIDOS.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. CURACIÓN DE CONTENIDOS.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o60-fjuo9ulsi</odePageId>
+      <odeBlockId>block-1778783717975-eh79cr53e</odeBlockId>
+      <blockName>MATERIAL NECESARIO PARA LA REALIZACIÓN DEL PRODUCTO FINAL</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o60-fjuo9ulsi</odePageId>
+          <odeBlockId>block-1778783717975-eh79cr53e</odeBlockId>
+          <odeIdeviceId>idevice-1778783717973-ul0nboito</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: arial, helvetica, sans-serif;">Todo el material y las aplicaciones necesarias para la realización del producto final en las siguientes plataformas:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;" title="">- SYMBALOO: <a href="https://www.symbaloo.com/shared/AAAAARLVRukAA41-5EaLkw==" title="">ENLACES A WEBS Y PLATAFORMAS ÚTILES</a></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;" title="">- PADLET.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778783717973-ul0nboito","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Todo el material y las aplicaciones necesarias para la realización del producto final en las siguientes plataformas:</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">- SYMBALOO: <a href=\"https://www.symbaloo.com/shared/AAAAARLVRukAA41-5EaLkw==\" title=\"\">ENLACES A WEBS Y PLATAFORMAS ÚTILES</a></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\" title=\"\">- PADLET.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpbe5o60-fjuo9ulsi</odePageId>
+      <odeBlockId>block-1778783343024-aa4irveu0</odeBlockId>
+      <blockName>PADLET</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o60-fjuo9ulsi</odePageId>
+          <odeBlockId>block-1778783343024-aa4irveu0</odeBlockId>
+          <odeIdeviceId>idevice-1778783343020-utvp2t3g2</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/gmarcar204/que-funcion-soy-t0i6iitx3myu5cnx" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o61-gnrantdnv</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>4. EL PRODUCTO FINAL.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. EL PRODUCTO FINAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. EL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. EL PRODUCTO FINAL.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o61-gnrantdnv</odePageId>
+      <odeBlockId>block-1779134956804-7edkopot6</odeBlockId>
+      <blockName>MOSAICO DE FUNCIONES Y SECUENCIA DE PISTAS</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o61-gnrantdnv</odePageId>
+          <odeBlockId>block-1779134956804-7edkopot6</odeBlockId>
+          <odeIdeviceId>idevice-1779134956785-ihjk6uv9d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El producto final de la situación de aprendizaje "¿QUÉ FUNCIÓN SOY?" tiene como objetivo la recreación aproximada del juego “¿Quién es quién?” adaptado a funciones.  Pueden distinguirse dos partes.</p>
+<p style="text-align: justify;">La primera parte consiste en elaborar un mosaico de funciones, en el que estén representadas las gráficas de unas 19-20 funciones. Para ello cada grupo usará la aplicación GeoGebra donde deben meter las expresiones de los diferentes tipos de funciones que se han visto a lo largo de la situación para obtener sus gráficas. El objetivo es que aparezcan todas las características de las funciones explicadas en clase.</p>
+<p style="text-align: justify;">Geogebra es un software matemático interactivo y de código abierto, diseñado para la enseñanza y aprendizaje de las matemáticas. Destaca fundamentalmente en el bloque de las representaciones gráficas por lo que es ideal para representar las gráficas necesarias para el mosaico.</p>
+<p style="text-align: justify;">Las gráficas se descargan para posteriormente añadirlas numeradas a un archivo formando el mosaico tal y como se ve en la siguiente imagen:</p>
+<p><img src="{{context_path}}/content/resources/TAPIZ FUNCIONES.png" title="MOSAICO FUNCIONES" width="461" height="652" alt="MOSAICO FUNCIONES" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;">En una segunda parte, cada grupo prepara una presentación, con ayuda de Canva, donde presentan el mosaico creado y varias secuencias de pistas (mínimo 3 pistas) que deben elaborar y que permiten identificar la función buscada. Las pistas serán cuestiones referentes a las características de las funciones (dominio, recorrido, continuidad, extremos relativos o absolutos, puntos de corte con los ejes, monotonía, periodicidad, simetría, tipo de función, etc. En cada pista se van eliminando funciones y finalmente sólo debe haber una gráfica que cumpla con todas las características.</p>
+<p style="text-align: justify;">Se propone el uso de Canva porque es una herramienta gratuita, extremadamente versátil, totalmente accesibles desde los ordenadores con conexión a internet del aula o desde sus propios dispositivos en casa y que permite crear presentaciones, infografías, etc., de forma sencilla.</p>
+<p style="text-align: justify;">La presentación que contiene el mosaico y las secuencias de pistas se entregan por Classroom para ser supervisadas por el profesor antes de realizar la recreación del juego en clase.</p>
+<p style="text-align: justify;">El objetivo del producto final es que el alumnado asimile y comprenda las características de las funciones (dominio, recorrido, continuidad, monotonía, etc.) y los diferentes tipos de funciones, con ayuda de las TIC.</p>
+<p><img src="{{context_path}}/content/resources/EJEMPLO PISTAS.jpg" title="EJEMPLO PISTAS" width="396" height="250" alt="EJEMPLO PISTAS" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="text-decoration: underline;">Desarrollo del juego</span></p>
+<p>En dos sesiones de clase se procede al desarrollo del juego. Cada grupo proyecta su presentación donde aparece el mosaico de funciones y la secuencia de pistas. El profesor llevará impreso los diferentes “mosaicos” para repartir a cada grupo y facilitar el seguimiento del juego.</p>
+<p>El juego consistirá en lo siguiente:</p>
+<p>-        Cada grupo irá dando pistas de manera pausada y secuencial sobre una de las funciones en cuestión, con idea de que los demás grupos compitan entre sí para adivinar de cual se trata. </p>
+<p>-        Los grupos “concursantes” irán eliminando las casillas de aquellas funciones que no vayan encajando con las pistas hasta acabar encontrando la función “enigma”. Gana el grupo que acierte primero la función enigma.</p>
+<p>Cada grupo sólo podrá dar una respuesta por cada función buscada, por lo que si se equivocan quedarán eliminados de esa ronda, con el fin de evitar el acierto por azar, prueba y error. El grupo que crea saber la función buscada, levantará la mano y se le dará paso desde el equipo expositor.</p>
+<p>Cada grupo propondrá 1 o 2 funciones, de forma que irán rotando para que todos los grupos expongan las pistas correspondientes. Ganará el grupo que más funciones acierte.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779134956785-ihjk6uv9d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El producto final de la situación de aprendizaje \"¿QUÉ FUNCIÓN SOY?\" tiene como objetivo la recreación aproximada del juego “¿Quién es quién?” adaptado a funciones.  Pueden distinguirse dos partes.</p>\n<p style=\"text-align: justify;\">La primera parte consiste en elaborar un mosaico de funciones, en el que estén representadas las gráficas de unas 19-20 funciones. Para ello cada grupo usará la aplicación GeoGebra donde deben meter las expresiones de los diferentes tipos de funciones que se han visto a lo largo de la situación para obtener sus gráficas. El objetivo es que aparezcan todas las características de las funciones explicadas en clase.</p>\n<p style=\"text-align: justify;\">Geogebra es un software matemático interactivo y de código abierto, diseñado para la enseñanza y aprendizaje de las matemáticas. Destaca fundamentalmente en el bloque de las representaciones gráficas por lo que es ideal para representar las gráficas necesarias para el mosaico.</p>\n<p style=\"text-align: justify;\">Las gráficas se descargan para posteriormente añadirlas numeradas a un archivo formando el mosaico tal y como se ve en la siguiente imagen:</p>\n<p><img src=\"{{context_path}}/content/resources/TAPIZ FUNCIONES.png\" title=\"MOSAICO FUNCIONES\" width=\"461\" height=\"652\" alt=\"MOSAICO FUNCIONES\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: justify;\">En una segunda parte, cada grupo prepara una presentación, con ayuda de Canva, donde presentan el mosaico creado y varias secuencias de pistas (mínimo 3 pistas) que deben elaborar y que permiten identificar la función buscada. Las pistas serán cuestiones referentes a las características de las funciones (dominio, recorrido, continuidad, extremos relativos o absolutos, puntos de corte con los ejes, monotonía, periodicidad, simetría, tipo de función, etc. En cada pista se van eliminando funciones y finalmente sólo debe haber una gráfica que cumpla con todas las características.</p>\n<p style=\"text-align: justify;\">Se propone el uso de Canva porque es una herramienta gratuita, extremadamente versátil, totalmente accesibles desde los ordenadores con conexión a internet del aula o desde sus propios dispositivos en casa y que permite crear presentaciones, infografías, etc., de forma sencilla.</p>\n<p style=\"text-align: justify;\">La presentación que contiene el mosaico y las secuencias de pistas se entregan por Classroom para ser supervisadas por el profesor antes de realizar la recreación del juego en clase.</p>\n<p style=\"text-align: justify;\">El objetivo del producto final es que el alumnado asimile y comprenda las características de las funciones (dominio, recorrido, continuidad, monotonía, etc.) y los diferentes tipos de funciones, con ayuda de las TIC.</p>\n<p><img src=\"{{context_path}}/content/resources/EJEMPLO PISTAS.jpg\" title=\"EJEMPLO PISTAS\" width=\"396\" height=\"250\" alt=\"EJEMPLO PISTAS\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"text-decoration: underline;\">Desarrollo del juego</span></p>\n<p>En dos sesiones de clase se procede al desarrollo del juego. Cada grupo proyecta su presentación donde aparece el mosaico de funciones y la secuencia de pistas. El profesor llevará impreso los diferentes “mosaicos” para repartir a cada grupo y facilitar el seguimiento del juego.</p>\n<p>El juego consistirá en lo siguiente:</p>\n<p>-        Cada grupo irá dando pistas de manera pausada y secuencial sobre una de las funciones en cuestión, con idea de que los demás grupos compitan entre sí para adivinar de cual se trata. </p>\n<p>-        Los grupos “concursantes” irán eliminando las casillas de aquellas funciones que no vayan encajando con las pistas hasta acabar encontrando la función “enigma”. Gana el grupo que acierte primero la función enigma.</p>\n<p>Cada grupo sólo podrá dar una respuesta por cada función buscada, por lo que si se equivocan quedarán eliminados de esa ronda, con el fin de evitar el acierto por azar, prueba y error. El grupo que crea saber la función buscada, levantará la mano y se le dará paso desde el equipo expositor.</p>\n<p>Cada grupo propondrá 1 o 2 funciones, de forma que irán rotando para que todos los grupos expongan las pistas correspondientes. Ganará el grupo que más funciones acierte.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o61-fcgkvkabu</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>5. LÍNEA TEMPORAL.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. LÍNEA TEMPORAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. LINEA TEMPORAL.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. LÍNEA TEMPORAL.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o61-fcgkvkabu</odePageId>
+      <odeBlockId>block-1779114582619-49bk2hmpv</odeBlockId>
+      <blockName>LÍNEA TEMPORAL PARA LA ORGANIZACIÓN</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o61-fcgkvkabu</odePageId>
+          <odeBlockId>block-1779114582619-49bk2hmpv</odeBlockId>
+          <odeIdeviceId>idevice-1779114582617-5spxk41p2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="640" height="389" src="https://docs.google.com/presentation/d/e/2PACX-1vSnz-1SEZrIZ5BWMSF0kK0XaVGLaEMhzsXEsKtPsKZhm5qizIlR0WXRc7lwcdWJsfSUFpSqoCpddjS-/pubembed?start=false&loop=false&delayms=15000" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779114582617-5spxk41p2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"389\" src=\"https://docs.google.com/presentation/d/e/2PACX-1vSnz-1SEZrIZ5BWMSF0kK0XaVGLaEMhzsXEsKtPsKZhm5qizIlR0WXRc7lwcdWJsfSUFpSqoCpddjS-/pubembed?start=false&loop=false&delayms=15000\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o61-xz60xtdav</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>6. ACTIVIDADES Y TAREAS DEL PROYECTO.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ACTIVIDADES Y TAREAS DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ACTIVIDADES Y TAREAS DEL PROYECTO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o61-xz60xtdav</odePageId>
+      <odeBlockId>block-1779117943530-l5azk5pwc</odeBlockId>
+      <blockName>ACTIVIDADES Y TAREAS, CRITERIOS ASOCIADOS, DURACIÓN Y ORGANIZACIÓN.</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o61-xz60xtdav</odePageId>
+          <odeBlockId>block-1779117943530-l5azk5pwc</odeBlockId>
+          <odeIdeviceId>idevice-1779117943527-yb838jdnx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/TAREAS Y CRITERIOS.pdf"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779117943527-yb838jdnx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/TAREAS Y CRITERIOS.pdf\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779128620820-940dxa77l</odePageId>
+  <odeParentPageId>page-mpbe5o61-xz60xtdav</odeParentPageId>
+  <pageName>6.1. ENUNCIADOS DE TAREAS Y ACTIVIDADES.</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. ENUNCIADOS DE TAREAS Y ACTIVIDADES.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.1. ENUNCIADOS DE TAREAS Y ACTIVIDADES.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779128620820-940dxa77l</odePageId>
+      <odeBlockId>block-1779128625332-wnexx320q</odeBlockId>
+      <blockName>PICTIONARY DE FUNCIONES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779128620820-940dxa77l</odePageId>
+          <odeBlockId>block-1779128625332-wnexx320q</odeBlockId>
+          <odeIdeviceId>idevice-1779128625331-iql6kilx5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/PICTIONARY.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779128625331-iql6kilx5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/PICTIONARY.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779128620820-940dxa77l</odePageId>
+      <odeBlockId>block-1779128735963-hbmmm41s5</odeBlockId>
+      <blockName>FUNCIONES EN NUESTRO ENTORNO I</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779128620820-940dxa77l</odePageId>
+          <odeBlockId>block-1779128735963-hbmmm41s5</odeBlockId>
+          <odeIdeviceId>idevice-1779128735961-fozd8iv03</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/FUNCIONES EN NUESTRO ENTORNO I.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779128735961-fozd8iv03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/FUNCIONES EN NUESTRO ENTORNO I.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779128620820-940dxa77l</odePageId>
+      <odeBlockId>block-1779128779711-8y2h7nhqz</odeBlockId>
+      <blockName>FUNCIONES EN NUESTRO ENTORNO II</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779128620820-940dxa77l</odePageId>
+          <odeBlockId>block-1779128779711-8y2h7nhqz</odeBlockId>
+          <odeIdeviceId>idevice-1779128779710-t4pxr0kfv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/FUNCIONES EN NUESTRO ENTORNO II.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779128779710-t4pxr0kfv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/FUNCIONES EN NUESTRO ENTORNO II.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o61-j8iqfwq5s</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>7. EVALUACIÓN.</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o61-j8iqfwq5s</odePageId>
+      <odeBlockId>block-1779127557444-hns3yklw3</odeBlockId>
+      <blockName>COMPETENCIAS, CRITERIOS DE EVALUACIÓN E INSTRUMENTOS.</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o61-j8iqfwq5s</odePageId>
+          <odeBlockId>block-1779127557444-hns3yklw3</odeBlockId>
+          <odeIdeviceId>idevice-1779127557441-bykxxezta</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dentro de la evaluación de la situación de aprendizaje vamos a distinguir dos puntos:</p>
+<p>- Competencias, criterios y tareas asociadas.</p>
+<p>- Instrumentos de evaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779127557441-bykxxezta","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dentro de la evaluación de la situación de aprendizaje vamos a distinguir dos puntos:</p>\n<p>- Competencias, criterios y tareas asociadas.</p>\n<p>- Instrumentos de evaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779126718079-0r0bowvkh</odePageId>
+  <odeParentPageId>page-mpbe5o61-j8iqfwq5s</odeParentPageId>
+  <pageName>7.1. COMPETENCIAS, CRITERIOS Y TAREAS ASOCIADAS.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1. COMPETENCIAS, CRITERIOS Y TAREAS ASOCIADAS.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779126718079-0r0bowvkh</odePageId>
+      <odeBlockId>block-1779126725343-3hx9577rq</odeBlockId>
+      <blockName>RELACIONES CURRICULARES</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779126718079-0r0bowvkh</odePageId>
+          <odeBlockId>block-1779126725343-3hx9577rq</odeBlockId>
+          <odeIdeviceId>idevice-1779126725340-i04khj0g7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/CRITERIOS, COMPETENCIAS, SABERES Y TAREAS.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779126725340-i04khj0g7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/CRITERIOS, COMPETENCIAS, SABERES Y TAREAS.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o62-mcqrbm5vo</odePageId>
+  <odeParentPageId>page-mpbe5o61-j8iqfwq5s</odeParentPageId>
+  <pageName>7.2. INSTRUMENTOS DE EVALUACIÓN.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.2. INSTRUMENTOS DE EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.2. INSTRUMENTOS DE EVALUACIÓN.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o62-mcqrbm5vo</odePageId>
+      <odeBlockId>block-1778752987909-ip8lv3ixq</odeBlockId>
+      <blockName>RÚBRICA PRODUCTO FINAL</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o62-mcqrbm5vo</odePageId>
+          <odeBlockId>block-1778752987909-ip8lv3ixq</odeBlockId>
+          <odeIdeviceId>idevice-1778752987905-5ed51qcbt</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778752987905-5ed51qcbt%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20la%20evaluaci%F3n%20del%20producto%20final%22%2C%22categories%22%3A%5B%22Elaboraci%F3n%20del%20mosaico%20de%20funciones%20%20%20%20%20%20%20%20%20%2030%25%22%2C%22Variedad%20y%20correcta%20elaboraci%F3n%20de%20las%20pistas%20para%20el%20desarrollo%20del%20juego%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2030%25%22%2C%22Participaci%F3n%20grupal%20y%20responsabilidad%20compartida%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%25%22%2C%22Desarrollo%20del%20juego%2020%25%22%5D%2C%22scores%22%3A%5B%22Excelente%20%289-10%29%22%2C%22Notable%20%287-8%29%22%2C%22Suficiente%20%285-6%29%22%2C%22Insuficiente%20%281-4%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Saben%20representar%20perfectamente%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20todos%20los%20diferentes%20tipos%20de%20funciones%20y%20todas%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Saben%20representar%20medianamente%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20la%20mayor%EDa%20de%20los%20diferentes%20tipos%20de%20funciones%20y%20la%20mayor%EDa%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Saben%20representar%20medianamente%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20la%20mayor%EDa%20de%20los%20diferentes%20tipos%20de%20funciones%20y%20la%20mayor%EDa%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Saben%20representar%20algunas%20funciones%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20diferentes%20tipos%20de%20funciones%20y%20algunas%20de%20las%20caracter%EDsticas%20de%20las%20mismas.%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20saben%20representar%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20s%F3lo%20algunas%20funciones%20y%20no%20aparecen%20la%20mayor%EDa%20de%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todas%20las%20pistas%20est%E1n%20cuidadosamente%20elaboradas%2C%20empleando%20todas%20las%20caracter%EDsticas%20de%20las%20funciones%2C%20exigiendo%20un%20buen%20conocimiento%20del%20tema%20para%20su%20seguimiento%20y%20llevando%20a%20una%20soluci%F3n%20%FAnica%20en%20todos%20los%20casos%20requiriendo%20varias%20pistas%20para%20ello%20%28m%EDnimo%204%29.%20%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Las%20pistas%20est%E1n%20bien%20elaboradas%2C%20empleando%20la%20mayor%EDa%20de%20las%20caracter%EDsticas%20de%20las%20funciones%20%28excepto%201%20o%202%29%2C%20exigiendo%20un%20buen%20conocimiento%20del%20tema%20para%20su%20seguimiento%20y%20llevando%20a%20una%20soluci%F3n%20%FAnica%20en%20todos%20los%20casos%20requiriendo%20varias%20pistas%20para%20ello%20%28m%EDnimo%203%29.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Las%20pistas%20est%E1n%20elaboradas%20de%20forma%20correcta%2C%20empleando%20al%20menos%20la%20mitad%20de%20las%20caracter%EDsticas%20de%20las%20funciones%2C%20exigiendo%20un%20m%EDnimo%20conocimiento%20del%20tema%20y%20llevando%20a%20una%20soluci%F3n%20%FAnica%20al%20menos%20en%202/3%20de%20los%20casos%20tras%20m%EDnimo%202%20pistas.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20las%20pistas%20no%20est%E1n%20bien%20elaboradas%2C%20empleando%20menos%20de%20la%20mitad%20de%20las%20caracter%EDsticas%20de%20las%20funciones%2C%20no%20llevando%20a%20una%20soluci%F3n%20%FAnica%20en%20al%20menos%202/3%20de%20los%20casos%20o%20llevando%20a%20soluci%F3n%20tras%201%20sola%20pista.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todos%20los%20integrantes%20del%20grupo%20participan%20con%20entusiasmo%20y%20comparten%20por%20igual%20la%20responsabilidad%20sobre%20la%20tarea.%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Al%20menos%20tres%20cuartas%20partes%20de%20los%20integrantes%20del%20grupo%20participan%20activamente%20y%20comparten%20por%20igual%20la%20responsabilidad%20sobre%20la%20tarea.%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22S%F3lo%20la%20mitad%20de%20los%20integrantes%20del%20grupo%20participan%20activamente%20y%20comparten%20la%20responsabilidad%20de%20la%20tarea.%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%F3lo%20alg%FAn%20integrante%20del%20grupo%20participa%20activamente%20y%20asume%20la%20totalidad%20de%20la%20responsabilidad%20de%20la%20tarea%2C%20mientras%20el%20resto%20son%20meros%20espectadores.%20%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todos%20los%20miembros%20del%20grupo%20se%20muestran%20atentos%20a%20las%20pistas%2C%20entienden%20las%20mismas%20y%20consiguen%20encontrar%20la%20mayor%EDa%20de%20las%20funciones%20%u201Cenigmas%u201D.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20los%20miembros%20del%20grupo%20se%20muestran%20atentos%20a%20las%20pistas%2C%20entienden%20la%20mayor%EDa%20de%20las%20mismas%20y%20consiguen%20encontrar%20algunas%20de%20las%20funciones%20o%20al%20menos%20se%20quedan%20cerca.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Los%20miembros%20del%20grupo%20no%20muestran%20mucha%20atenci%F3n%20a%20las%20pistas%2C%20entienden%20s%F3lo%20algunas%20de%20las%20mismas%20y%20se%20quedan%20cerca%20de%20encontrar%20la%20funci%F3n%20buscada%20pero%20no%20lo%20consiguen%20en%20ning%FAn%20caso.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Los%20miembros%20del%20grupo%20no%20muestran%20atenci%F3n%20a%20las%20pistas%2C%20no%20entienden%20la%20mayor%EDa%20de%20las%20mismas%20y%20no%20consiguen%20seguir%20las%20mismas%20quedando%20lejos%20de%20encontrar%20la%20funci%F3n%20buscada.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20la%20evaluaci%F3n%20del%20producto%20final%22%2C%22categories%22%3A%5B%22Elaboraci%F3n%20del%20mosaico%20de%20funciones%20%20%20%20%20%20%20%20%20%2030%25%22%2C%22Variedad%20y%20correcta%20elaboraci%F3n%20de%20las%20pistas%20para%20el%20desarrollo%20del%20juego%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2030%25%22%2C%22Participaci%F3n%20grupal%20y%20responsabilidad%20compartida%20%20%20%20%20%20%20%20%20%20%20%20%20%2020%25%22%2C%22Desarrollo%20del%20juego%2020%25%22%5D%2C%22scores%22%3A%5B%22Excelente%20%289-10%29%22%2C%22Notable%20%287-8%29%22%2C%22Suficiente%20%285-6%29%22%2C%22Insuficiente%20%281-4%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Saben%20representar%20perfectamente%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20todos%20los%20diferentes%20tipos%20de%20funciones%20y%20todas%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Saben%20representar%20medianamente%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20la%20mayor%EDa%20de%20los%20diferentes%20tipos%20de%20funciones%20y%20la%20mayor%EDa%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Saben%20representar%20medianamente%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20la%20mayor%EDa%20de%20los%20diferentes%20tipos%20de%20funciones%20y%20la%20mayor%EDa%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Saben%20representar%20algunas%20funciones%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20diferentes%20tipos%20de%20funciones%20y%20algunas%20de%20las%20caracter%EDsticas%20de%20las%20mismas.%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20saben%20representar%20las%20gr%E1ficas%20con%20GeoGebra%20y%20en%20el%20mosaico%20aparecen%20s%F3lo%20algunas%20funciones%20y%20no%20aparecen%20la%20mayor%EDa%20de%20las%20caracter%EDsticas%20de%20las%20mismas.%20%20%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todas%20las%20pistas%20est%E1n%20cuidadosamente%20elaboradas%2C%20empleando%20todas%20las%20caracter%EDsticas%20de%20las%20funciones%2C%20exigiendo%20un%20buen%20conocimiento%20del%20tema%20para%20su%20seguimiento%20y%20llevando%20a%20una%20soluci%F3n%20%FAnica%20en%20todos%20los%20casos%20requiriendo%20varias%20pistas%20para%20ello%20%28m%EDnimo%204%29.%20%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Las%20pistas%20est%E1n%20bien%20elaboradas%2C%20empleando%20la%20mayor%EDa%20de%20las%20caracter%EDsticas%20de%20las%20funciones%20%28excepto%201%20o%202%29%2C%20exigiendo%20un%20buen%20conocimiento%20del%20tema%20para%20su%20seguimiento%20y%20llevando%20a%20una%20soluci%F3n%20%FAnica%20en%20todos%20los%20casos%20requiriendo%20varias%20pistas%20para%20ello%20%28m%EDnimo%203%29.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Las%20pistas%20est%E1n%20elaboradas%20de%20forma%20correcta%2C%20empleando%20al%20menos%20la%20mitad%20de%20las%20caracter%EDsticas%20de%20las%20funciones%2C%20exigiendo%20un%20m%EDnimo%20conocimiento%20del%20tema%20y%20llevando%20a%20una%20soluci%F3n%20%FAnica%20al%20menos%20en%202/3%20de%20los%20casos%20tras%20m%EDnimo%202%20pistas.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20las%20pistas%20no%20est%E1n%20bien%20elaboradas%2C%20empleando%20menos%20de%20la%20mitad%20de%20las%20caracter%EDsticas%20de%20las%20funciones%2C%20no%20llevando%20a%20una%20soluci%F3n%20%FAnica%20en%20al%20menos%202/3%20de%20los%20casos%20o%20llevando%20a%20soluci%F3n%20tras%201%20sola%20pista.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todos%20los%20integrantes%20del%20grupo%20participan%20con%20entusiasmo%20y%20comparten%20por%20igual%20la%20responsabilidad%20sobre%20la%20tarea.%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Al%20menos%20tres%20cuartas%20partes%20de%20los%20integrantes%20del%20grupo%20participan%20activamente%20y%20comparten%20por%20igual%20la%20responsabilidad%20sobre%20la%20tarea.%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22S%F3lo%20la%20mitad%20de%20los%20integrantes%20del%20grupo%20participan%20activamente%20y%20comparten%20la%20responsabilidad%20de%20la%20tarea.%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%F3lo%20alg%FAn%20integrante%20del%20grupo%20participa%20activamente%20y%20asume%20la%20totalidad%20de%20la%20responsabilidad%20de%20la%20tarea%2C%20mientras%20el%20resto%20son%20meros%20espectadores.%20%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todos%20los%20miembros%20del%20grupo%20se%20muestran%20atentos%20a%20las%20pistas%2C%20entienden%20las%20mismas%20y%20consiguen%20encontrar%20la%20mayor%EDa%20de%20las%20funciones%20%u201Cenigmas%u201D.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20los%20miembros%20del%20grupo%20se%20muestran%20atentos%20a%20las%20pistas%2C%20entienden%20la%20mayor%EDa%20de%20las%20mismas%20y%20consiguen%20encontrar%20algunas%20de%20las%20funciones%20o%20al%20menos%20se%20quedan%20cerca.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Los%20miembros%20del%20grupo%20no%20muestran%20mucha%20atenci%F3n%20a%20las%20pistas%2C%20entienden%20s%F3lo%20algunas%20de%20las%20mismas%20y%20se%20quedan%20cerca%20de%20encontrar%20la%20funci%F3n%20buscada%20pero%20no%20lo%20consiguen%20en%20ning%FAn%20caso.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Los%20miembros%20del%20grupo%20no%20muestran%20atenci%F3n%20a%20las%20pistas%2C%20no%20entienden%20la%20mayor%EDa%20de%20las%20mismas%20y%20no%20consiguen%20seguir%20las%20mismas%20quedando%20lejos%20de%20encontrar%20la%20funci%F3n%20buscada.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para la evaluación del producto final</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpbe5o62-mcqrbm5vo</odePageId>
+      <odeBlockId>block-1778886860118-nnl2ss1ni</odeBlockId>
+      <blockName>LISTA DE COTEJO &quot;FUNCIONES EN NUESTRO ENTORNO I&quot;</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o62-mcqrbm5vo</odePageId>
+          <odeBlockId>block-1778886860118-nnl2ss1ni</odeBlockId>
+          <odeIdeviceId>idevice-1778886860114-jd2nwmu9g</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3xiiMdd3ApQsp2Cbi7K-a3KBm_mbYXe-N1jLhDOyWX1kIjg/viewform?usp=dialog" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o62-rh0bc1r4q</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA.</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o62-rh0bc1r4q</odePageId>
+      <odeBlockId>block-1779140299275-zgvb533ka</odeBlockId>
+      <blockName>OBSERVACIONES Y RECOMENDACIONES PARA SU APLICACIÓN EN EL AULA</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o62-rh0bc1r4q</odePageId>
+          <odeBlockId>block-1779140299275-zgvb533ka</odeBlockId>
+          <odeIdeviceId>idevice-1779140299271-r362qfdac</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/GUIA DIDÁCTICA.pdf"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779140299271-r362qfdac","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/GUIA DIDÁCTICA.pdf\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpbe5o62-1ojkptalp</odePageId>
+  <odeParentPageId>page-mpbe5o5w-8mwe7z9fk</odeParentPageId>
+  <pageName>CRÉDITOS.</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpbe5o62-1ojkptalp</odePageId>
+      <odeBlockId>block-1779120167593-s6vt3zxih</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpbe5o62-1ojkptalp</odePageId>
+          <odeBlockId>block-1779120167593-s6vt3zxih</odeBlockId>
+          <odeIdeviceId>idevice-1779120167591-b3vauu9cp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SITUACIÓN DE APRENDIZAJE "¿QUE FUNCIÓN SOY?"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje que tiene como objetivo estudiar las características de las funciones y los tipos de funciones recreando el clásico juego de "¿Quién es quién?"</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">GENARO MANUEL MARTOS CARRASCO</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
